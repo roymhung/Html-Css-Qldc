@@ -1,0 +1,33 @@
+/* Header */
+.header{
+    height: 80px;
+}
+.header-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+}
+.header-nav__list{
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    
+}
+/* End Header */
+
+/* Banner  */
+.banner{
+    max-width: 100%;
+    width: 100%;
+    height: 721px;
+}
+.banner img{
+    width: 100%;
+    height: 100%;
+}
+/* end Banner */
+
+/* Form search layout */
+
+/* end Form search layout */
